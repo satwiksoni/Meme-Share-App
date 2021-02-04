@@ -1,0 +1,18 @@
+@csalgo
+
+Assignment Problem
+Problem Name: Least Width
+Problem Description:
+Which property will be used to display an image of at least 100px width?
+Options:
+0. max-height
+1. max-width
+2. min-height
+3. min-width
+
+
+
+=====Answer=====
+Correct Option: 3
+
+@csalgo Telegram
